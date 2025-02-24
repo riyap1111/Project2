@@ -1,0 +1,14 @@
+CI/CD pipeline
+
+1)Maven
+2)Java
+3)GIT
+4)Jenkins
+5)Plugin
+6)TestNG
+7)Run..
+
+uname test
+pswd Test123
+
+ [1m[36m[4mhttps://reports.cucumber.io/reports/fe3ca7e9-2dae-4589-91f0-3f86b27709af[0m
